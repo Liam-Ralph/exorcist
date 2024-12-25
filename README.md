@@ -1,5 +1,5 @@
 # Exorcist
-### July 2022
+### Released July 2022
 
 <br/>
 
